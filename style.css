@@ -1,0 +1,59 @@
+body {
+  font-family: "Noto Sans", sans-serif;
+  font-size: 16px;
+  color: #3a3942;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+  font-family: "Black Han Sans", sans-serif;
+  font-size: 24px;
+  margin-bottom: 0 !important;
+}
+
+.logo-section {
+  background: url("https://images.unsplash.com/photo-1593902581864-7ff48cffacb0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1867&q=80");
+  background-size: cover;
+  background-position: center;
+  height: 300px;
+}
+
+.logo-section .logo-box {
+  border: 5px solid rgb(26, 26, 26);
+  padding: 10px;
+}
+
+.gray-section {
+  background: #f8f7fc;
+}
+
+.portfolio-header {
+  background: url("https://images.pexels.com/photos/2262746/pexels-photo-2262746.jpeg?cs=srgb&dl=pexels-flora-westbrook-2262746.jpg&fm=jpg");
+  background-size: cover;
+  background-position: center;
+  height: 150px;
+}
+
+.portfolio-header .logo-box {
+  border: 5px solid rgb(255, 255, 255);
+  padding: 10px;
+}
+
+.portfolio-header .logo-box h4 {
+  color: white;
+}
+
+.portfolio-section .portfolio-project {
+  width: 100%;
+  height: 150px;
+  overflow: hidden;
+  margin: 0;
+  border: 1px solid black;
+}
+
+.portfolio-section .portfolio-project img {
+  height: 100%;
+}
