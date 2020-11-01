@@ -51,9 +51,9 @@ h5 {
 }
 
 .portfolio-header {
-  background: url("https://images.pexels.com/photos/2262746/pexels-photo-2262746.jpeg?cs=srgb&dl=pexels-flora-westbrook-2262746.jpg&fm=jpg");
-  background-size: cover;
-  background-position: center;
+  /* background: url("https://images.pexels.com/photos/2262746/pexels-photo-2262746.jpeg?cs=srgb&dl=pexels-flora-westbrook-2262746.jpg&fm=jpg"); */
+  /* background-size: cover; */
+  /* background-position: center; */
   height: 150px;
 }
 
