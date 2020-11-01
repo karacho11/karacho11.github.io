@@ -14,10 +14,30 @@ h5 {
   margin-bottom: 0 !important;
 }
 
+.top,
+.about-section {
+  background: white;
+}
+
+.bg {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  z-index: -10;
+
+  /* background: url("https://images.unsplash.com/photo-1593902581864-7ff48cffacb0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1867&q=80");
+  background-size: contain;
+  background-position-x: center;
+  background-position-y: bottom; */
+}
+
+.bg img {
+  width: 100%;
+}
+
 .logo-section {
-  background: url("https://images.unsplash.com/photo-1593902581864-7ff48cffacb0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1867&q=80");
-  background-size: cover;
-  background-position: center;
   height: 300px;
 }
 
@@ -44,6 +64,10 @@ h5 {
 
 .portfolio-header .logo-box h4 {
   color: white;
+}
+
+.portfolio-section {
+  background: white;
 }
 
 .portfolio-section .portfolio-project {
