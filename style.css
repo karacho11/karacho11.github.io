@@ -88,7 +88,7 @@ h5 {
   position: absolute;
   bottom: 15px;
   right: 15px;
-  font-size: 0.7em;
+  font-size: 0.8em;
 }
 
 .portfolio-section .portfolio-project .image-holder {
@@ -106,4 +106,5 @@ h5 {
 
 strong {
   font-weight: bold;
+  font-size: 1.2em;
 }
